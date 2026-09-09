@@ -67,3 +67,4 @@ result = pd.DataFrame({
 
 print("\n===== 10 KET QUA DAU TIEN =====")
 print(result.head(10))
+print("Da hoan thanh chuong trinh hoi quy tuyen tinh!")
